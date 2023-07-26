@@ -1,2 +1,5 @@
 # dot
-Sample project to demo git
+
+No run instructions, just a repo for class notes 
+
+
